@@ -1,4 +1,4 @@
-Calculator App
+
 This is a simple Calculator Application developed in Java. The app allows the user to perform basic arithmetic operations such as addition, subtraction, multiplication, and division between two numbers. It also includes error handling to manage exceptions like division by zero or invalid input.
 
 Features
